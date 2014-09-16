@@ -39,8 +39,6 @@ Function list:
 #define ADD_MAX 255		    /* defined constant for addivitive max factor */
 #define ADD_MIN 1		    /* defined constant for addivitive min facotr */
 #define _CRTDBG_MAP_ALLOC	/* defined constant for detecting memory leaks */
-#define ADD_MODE 1			/* defined constant for additive mode */
-#define MULTI_MODE -1		/* defined constant for multiplicative mode */
 /**************************************************************************************************
 ********************************		STRUCT BUFFER DEFINE	  *********************************
 **************************************************************************************************/

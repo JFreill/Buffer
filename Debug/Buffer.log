@@ -1,4 +1,4 @@
-﻿Build started 08/09/2014 9:41:37 PM.
+﻿Build started 15/09/2014 3:15:00 PM.
      1>Project "C:\Users\James\Documents\Visual Studio 2013\Projects\Compilers Workspace\Buffer\Buffer\Buffer.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W4 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Za /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt buffer.c
@@ -12,4 +12,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:00.98
+Time Elapsed 00:00:01.00
